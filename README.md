@@ -1,9 +1,6 @@
 # ✈️ Data Warehouse & Visualization – 2015 U.S. Flight Analysis
 
 > **University of Calabria** – Department of Mathematics and Computer Science  
-> **Course:** Data Analytics | **Professor:** Giorgio Terracina  
-> **Author:** Nourhene Dahmen | **Matriculation:** 283388  
-> **Exam Date:** 24 June 2026
 
 ---
 
