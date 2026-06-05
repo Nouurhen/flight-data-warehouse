@@ -1,8 +1,6 @@
 # ✈ Flight Data Warehouse — 2015 U.S. Flight Delays
 
 **Data Analytics Project** | University of Calabria  
-**Author:** Nourhene Dahmen | **Matriculation:** 283388  
-**Professor:** Prof. Giorgio Terracina | **Exam Date:** 24 June 2026
 
 ---
 
